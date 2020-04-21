@@ -1,0 +1,13 @@
+body{
+	background: url("../imágenes/pexels-photo-2514035.jpeg");
+	background-attachment: fixed;
+}
+#logo{
+	background: #00720c;
+}
+#menu ul li:hover{
+	background:#00720c;
+}
+.button-more{
+	background: #00720c;
+}

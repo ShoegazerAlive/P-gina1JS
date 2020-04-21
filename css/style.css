@@ -3,11 +3,11 @@
 	padding: 0px;
 	list-style: none;
 }
-
 body{
 	background: url("../imágenes/fondo.jpg");
 	background-attachment: fixed;
 }
+
 #global{
 	width: 65%;
 	margin:auto;
@@ -20,7 +20,6 @@ body{
 	font-family: "Verdana", "Arial";
 	font-size: 30px;
 	letter-spacing: 4px;
-	background: #22337a;
 	color: white;
 	text-align: center;
 	width: 372px;
@@ -41,9 +40,7 @@ body{
 	display: inline-block;
 	transition: all 300ms;
 }
-#menu ul li:hover{
-	background:#22337a;
-}
+
 #menu a{
 	display: block;
 	color: white;
@@ -77,7 +74,6 @@ body{
 }
 .button-more{
 	padding: 15px;
-	background: #22337a;
 	color: white;
 	text-decoration: none;
 	margin-top: 10px;
@@ -217,4 +213,33 @@ footer{
 	height: 250px !important;
 
 }
+#selector-themes{
+	position:fixed;
+	top:40%;
+	background: rgba(51,51,51, 0.7);
+	width: 50px;
+	height: 100px;
+}
+#to-green,
+#to-blue,
+#to-red{
+	width: 25px;
+	height: 25px;
+	border:1px solid white;
+	display: block;
+	margin:0px auto;
+	margin-top: 5px;
+	margin-bottom: 5px; 
+}
+#to-green{
+	background: #00720c;
+}
+#to-red{
+	background: #b80916;
+}
+#to-blue{
+	background: #0e079f;
+}
+
+
 

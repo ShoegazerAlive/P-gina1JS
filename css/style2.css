@@ -1,0 +1,13 @@
+body{
+	background: url("../imágenes/amazing-animal-beautiful-beautifull.jpg");
+	background-attachment: fixed;
+}
+#logo{
+	background: #b80916;
+}
+#menu ul li:hover{
+	background:#b80916;
+}
+.button-more{
+	background: #b80916;
+}

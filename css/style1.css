@@ -1,0 +1,14 @@
+body{
+	background: url("../imágenes/fondo.jpg");
+	background-attachment: fixed;
+}
+#logo{
+	background: #0e079f;
+}
+#menu ul li:hover{
+	background:#0e079f;
+}
+.button-more{
+	background: #0e079f;
+}
+
