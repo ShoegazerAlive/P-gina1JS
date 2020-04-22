@@ -1,21 +1,5 @@
 $(document).ready(function(){
 
-	//Selector de tema
-
-var themes = $("#theme")
-
-$("to-green").click(function(){
-	theme.attr("href", "css/style1.css")
-});
-
-$("to-red").click(function(){
-	theme.attr("href", "css/style2.css")
-});
-
-$("to-blue").click(function(){
-	theme.attr("href", "css/style3.css")
-});
-
 
 //Slider
 

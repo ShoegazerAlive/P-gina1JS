@@ -232,13 +232,21 @@ footer{
 	margin-bottom: 5px; 
 }
 #to-green{
-	background: #00720c;
+	background: #0e079f;
 }
 #to-red{
 	background: #b80916;
 }
 #to-blue{
-	background: #0e079f;
+	background: #00720c;
+}
+.subir{
+	color: white;
+	text-decoration: none;
+	display:block;
+	float: right;
+	
+
 }
 
 
